@@ -1,0 +1,22 @@
+{
+  "name": "orai-munka-2022-09-15",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "npx webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    
+    "type": "git",
+    "url": "git+https://github.com/Sboti03/orai-munka-2022-09-15.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sboti03/orai-munka-2022-09-15/issues"
+  },
+  "homepage": "https://github.com/Sboti03/orai-munka-2022-09-15#readme"
+}
