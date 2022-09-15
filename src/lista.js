@@ -12,7 +12,7 @@ function add(number) {
 function average(){
     let count = 0
     for(let i = 0; i < lista.length; i++) {
-        count += lista[i]
+        count += parseInt(lista[i])
     }
     return count / lista.length
 }
